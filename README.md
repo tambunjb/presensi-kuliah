@@ -17,7 +17,7 @@ Login page
 
 Add session
 <p align="left">
-<img height="60%" alt="add session" src="https://github.com/tambunjb/presensi-kuliah/assets/22196181/3939a20b-5862-4e18-a0a5-80154b790b14">
+<img width="50%" alt="add session" src="https://github.com/tambunjb/presensi-kuliah/assets/22196181/3939a20b-5862-4e18-a0a5-80154b790b14">
 </p>
 <br />
 
@@ -29,7 +29,7 @@ Class session
 
 Scan barcode
 <p align="left">
-<img height="60%" alt="scan barcode" src="https://github.com/tambunjb/presensi-kuliah/assets/22196181/9ce7244c-820a-4211-9097-abef668391c7">
+<img width="50%" alt="scan barcode" src="https://github.com/tambunjb/presensi-kuliah/assets/22196181/9ce7244c-820a-4211-9097-abef668391c7">
 </p>
 <br />
 
