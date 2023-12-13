@@ -1,4 +1,4 @@
-# <span id="tjidtitle">Student Attendance<span>
+# <span id="tjidtitle">Student Attendance</span>
 
 <div>Technologies: <span id="tjidtechs">React Native, JavaScript, Android</span></div>
 <br />
